@@ -41,6 +41,6 @@ int main() {
         cout << "Matrix is a Scalar Matrix";
     else
         cout << "Matrix is NOT a Scalar Matrix";
-
+    cout<<"This is the matrix";
     return 0;
 }
